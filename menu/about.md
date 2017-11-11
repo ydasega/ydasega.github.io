@@ -2,4 +2,8 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out.
+My name is Yohannes D. Asega. I am interested in algebraic geometry. 
+
+The blog's title, _dessin d’enfant_ is a hypermap seen as a representation of a [Belyi
+function](https://en.wikipedia.org/wiki/Belyi's_theorem#Belyi_functions): a meromorphic function $f:X\rightarrow \bar{\mathbb{C}}$ whose
+only critical values are 0, 1, and $\infty$. [[ncatlab]](https://ncatlab.org/nlab/show/child's+drawing). It also means "child's drawing"--analogous to my attempt at navigating mathematics.

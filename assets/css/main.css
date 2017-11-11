@@ -3,10 +3,10 @@
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
-  font-size: 12pt;
+  font-family: sans, Georgia, "Times New Roman", serif;
+  font-size: 15px;
   color: #515151;
-  line-height: 1.75rem;
+  line-height: 1.5rem;
 }
 
 @media (max-width: 30em) {
@@ -74,7 +74,7 @@ blockquote p {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 37vw;
 }
 
 @media (max-width: 1366px) {
