@@ -1,0 +1,23 @@
+title:  dessin d’enfant
+tagline:  a math notebook
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+google-ID: 'UA-80213386-1'
+
+menu:
+- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Papers', path: 'menu', url: 'papers.html'}
+- {name: 'Bibliography', path: 'menu', url: 'biblo.html'}
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'rss-square', link: 'feed.xml'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer

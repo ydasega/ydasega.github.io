@@ -1,9 +1,0 @@
-<!--This is a LaTeX preamble loaded in JB/themes/mark-reid/posts.html using the Jekyll include function-->
-
-$\newcommand{\sch}[1]{(#1,\mathcal{O}_{#1})}
-\newcommand{\n}{^{\text{an}}}
-\newcommand{\mc}[1]{\mathcal{#1}}
-\newcommand{\spe}[1]{\text{Spec}(#1)}
-
-\newcommand{\mf}[1]{\mathbf{#1}}
-\newcommand{\mb}[1]{\mathbb{#1}}$
